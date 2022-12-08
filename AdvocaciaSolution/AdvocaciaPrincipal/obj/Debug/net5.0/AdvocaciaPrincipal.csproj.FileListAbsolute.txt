@@ -1,0 +1,16 @@
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\AdvocaciaPrincipal.exe
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\AdvocaciaPrincipal.deps.json
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\AdvocaciaPrincipal.runtimeconfig.json
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\AdvocaciaPrincipal.runtimeconfig.dev.json
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\AdvocaciaPrincipal.dll
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\ref\AdvocaciaPrincipal.dll
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\bin\Debug\net5.0\AdvocaciaPrincipal.pdb
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.csproj.AssemblyReference.cache
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.AssemblyInfoInputs.cache
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.AssemblyInfo.cs
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.dll
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\ref\AdvocaciaPrincipal.dll
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.pdb
+C:\Users\android\source\repos\AdvocaciaSolution\AdvocaciaPrincipal\obj\Debug\net5.0\AdvocaciaPrincipal.genruntimeconfig.cache
